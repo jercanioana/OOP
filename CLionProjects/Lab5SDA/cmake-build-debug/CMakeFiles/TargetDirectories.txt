@@ -1,0 +1,3 @@
+/Users/ioanajercan/CLionProjects/Lab5SDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ioanajercan/CLionProjects/Lab5SDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ioanajercan/CLionProjects/Lab5SDA/cmake-build-debug/CMakeFiles/Lab5SDA.dir

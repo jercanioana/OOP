@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ioanajercan/CLionProjects/Practice2/Analysis.cpp
+Analysis.h
+/Users/ioanajercan/CLionProjects/Practice2/Analysis.h
+
+/Users/ioanajercan/CLionProjects/Practice2/Analysis.h
+iostream
+-
+BPI.h
+/Users/ioanajercan/CLionProjects/Practice2/BPI.h
+BMI.h
+/Users/ioanajercan/CLionProjects/Practice2/BMI.h
+
+/Users/ioanajercan/CLionProjects/Practice2/BMI.h
+Analysis.h
+/Users/ioanajercan/CLionProjects/Practice2/Analysis.h
+
+/Users/ioanajercan/CLionProjects/Practice2/BPI.h
+Analysis.h
+/Users/ioanajercan/CLionProjects/Practice2/Analysis.h
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Assignment3.dir/main.c.o CMakeFiles/Assignment3.dir/Entities.c.o CMakeFiles/Assignment3.dir/Repository.c.o CMakeFiles/Assignment3.dir/Service.c.o CMakeFiles/Assignment3.dir/UI.c.o  -o Assignment3 

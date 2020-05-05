@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ioanajercan/CLionProjects/practice3/Controller.h
+HospitalDepartment.h
+/Users/ioanajercan/CLionProjects/practice3/HospitalDepartment.h
+vector
+-
+
+/Users/ioanajercan/CLionProjects/practice3/HospitalDepartment.h
+iostream
+-
+string
+-
+
+/Users/ioanajercan/CLionProjects/practice3/NeonatalUnit.h
+HospitalDepartment.h
+/Users/ioanajercan/CLionProjects/practice3/HospitalDepartment.h
+
+/Users/ioanajercan/CLionProjects/practice3/Surgery.h
+HospitalDepartment.h
+/Users/ioanajercan/CLionProjects/practice3/HospitalDepartment.h
+
+/Users/ioanajercan/CLionProjects/practice3/UI.cpp
+UI.h
+/Users/ioanajercan/CLionProjects/practice3/UI.h
+
+/Users/ioanajercan/CLionProjects/practice3/UI.h
+Controller.h
+/Users/ioanajercan/CLionProjects/practice3/Controller.h
+Surgery.h
+/Users/ioanajercan/CLionProjects/practice3/Surgery.h
+NeonatalUnit.h
+/Users/ioanajercan/CLionProjects/practice3/NeonatalUnit.h
+

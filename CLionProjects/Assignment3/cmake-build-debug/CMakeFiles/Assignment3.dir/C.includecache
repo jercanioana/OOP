@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ioanajercan/CLionProjects/Assignment3/Entities.h
+
+/Users/ioanajercan/CLionProjects/Assignment3/Repository.h
+Entities.h
+/Users/ioanajercan/CLionProjects/Assignment3/Entities.h
+
+/Users/ioanajercan/CLionProjects/Assignment3/Service.h
+Repository.h
+/Users/ioanajercan/CLionProjects/Assignment3/Repository.h
+
+/Users/ioanajercan/CLionProjects/Assignment3/UI.c
+UI.h
+/Users/ioanajercan/CLionProjects/Assignment3/UI.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/Users/ioanajercan/CLionProjects/Assignment3/UI.h
+Service.h
+/Users/ioanajercan/CLionProjects/Assignment3/Service.h
+

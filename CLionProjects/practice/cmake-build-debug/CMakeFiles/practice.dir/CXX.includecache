@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ioanajercan/CLionProjects/practice/Console.cpp
+Console.h
+/Users/ioanajercan/CLionProjects/practice/Console.h
+
+/Users/ioanajercan/CLionProjects/practice/Console.h
+Service.h
+/Users/ioanajercan/CLionProjects/practice/Service.h
+
+/Users/ioanajercan/CLionProjects/practice/DynamicVector.h
+
+/Users/ioanajercan/CLionProjects/practice/Repository.cpp
+Repository.h
+/Users/ioanajercan/CLionProjects/practice/Repository.h
+
+/Users/ioanajercan/CLionProjects/practice/Repository.h
+Team.h
+/Users/ioanajercan/CLionProjects/practice/Team.h
+DynamicVector.h
+/Users/ioanajercan/CLionProjects/practice/DynamicVector.h
+
+/Users/ioanajercan/CLionProjects/practice/Service.cpp
+Service.h
+/Users/ioanajercan/CLionProjects/practice/Service.h
+
+/Users/ioanajercan/CLionProjects/practice/Service.h
+Repository.h
+/Users/ioanajercan/CLionProjects/practice/Repository.h
+
+/Users/ioanajercan/CLionProjects/practice/Team.h
+iostream
+-
+
+/Users/ioanajercan/CLionProjects/practice/main.cpp
+iostream
+-
+Console.h
+/Users/ioanajercan/CLionProjects/practice/Console.h
+

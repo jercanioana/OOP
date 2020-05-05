@@ -1,0 +1,3 @@
+/Users/ioanajercan/CLionProjects/DSALab6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ioanajercan/CLionProjects/DSALab6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ioanajercan/CLionProjects/DSALab6/cmake-build-debug/CMakeFiles/DSALab6.dir

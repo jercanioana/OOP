@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ioanajercan/CLionProjects/Test/DynamicVector.h
+
+/Users/ioanajercan/CLionProjects/Test/PowerWord.h
+iostream
+-
+
+/Users/ioanajercan/CLionProjects/Test/Repository.h
+PowerWord.h
+/Users/ioanajercan/CLionProjects/Test/PowerWord.h
+DynamicVector.h
+/Users/ioanajercan/CLionProjects/Test/DynamicVector.h
+
+/Users/ioanajercan/CLionProjects/Test/Service.cpp
+Service.h
+/Users/ioanajercan/CLionProjects/Test/Service.h
+
+/Users/ioanajercan/CLionProjects/Test/Service.h
+Repository.h
+/Users/ioanajercan/CLionProjects/Test/Repository.h
+

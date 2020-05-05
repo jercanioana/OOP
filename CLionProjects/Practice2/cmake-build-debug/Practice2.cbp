@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Practice2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Practice2">
+				<Option output="/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Practice2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Practice2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Practice2/fast">
+				<Option output="/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Practice2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Practice2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/ioanajercan/CLionProjects/Practice2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/ioanajercan/CLionProjects/Practice2/Analysis.cpp">
+			<Option target="Practice2"/>
+		</Unit>
+		<Unit filename="/Users/ioanajercan/CLionProjects/Practice2/Analysis.h">
+			<Option target="Practice2"/>
+		</Unit>
+		<Unit filename="/Users/ioanajercan/CLionProjects/Practice2/BMI.cpp">
+			<Option target="Practice2"/>
+		</Unit>
+		<Unit filename="/Users/ioanajercan/CLionProjects/Practice2/BMI.h">
+			<Option target="Practice2"/>
+		</Unit>
+		<Unit filename="/Users/ioanajercan/CLionProjects/Practice2/BPI.cpp">
+			<Option target="Practice2"/>
+		</Unit>
+		<Unit filename="/Users/ioanajercan/CLionProjects/Practice2/BPI.h">
+			<Option target="Practice2"/>
+		</Unit>
+		<Unit filename="/Users/ioanajercan/CLionProjects/Practice2/Console.cpp">
+			<Option target="Practice2"/>
+		</Unit>
+		<Unit filename="/Users/ioanajercan/CLionProjects/Practice2/Console.h">
+			<Option target="Practice2"/>
+		</Unit>
+		<Unit filename="/Users/ioanajercan/CLionProjects/Practice2/Person.cpp">
+			<Option target="Practice2"/>
+		</Unit>
+		<Unit filename="/Users/ioanajercan/CLionProjects/Practice2/Person.h">
+			<Option target="Practice2"/>
+		</Unit>
+		<Unit filename="/Users/ioanajercan/CLionProjects/Practice2/Service.cpp">
+			<Option target="Practice2"/>
+		</Unit>
+		<Unit filename="/Users/ioanajercan/CLionProjects/Practice2/Service.h">
+			<Option target="Practice2"/>
+		</Unit>
+		<Unit filename="/Users/ioanajercan/CLionProjects/Practice2/main.cpp">
+			<Option target="Practice2"/>
+		</Unit>
+		<Unit filename="/Users/ioanajercan/CLionProjects/Practice2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
