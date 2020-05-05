@@ -1,3 +1,0 @@
-/Users/ioanajercan/CLionProjects/DSALab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/ioanajercan/CLionProjects/DSALab7/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ioanajercan/CLionProjects/DSALab7/cmake-build-debug/CMakeFiles/DSALab7.dir

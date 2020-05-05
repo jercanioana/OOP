@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Seminar2.dir/main.cpp.o CMakeFiles/Seminar2.dir/Song.cpp.o  -o Seminar2 
